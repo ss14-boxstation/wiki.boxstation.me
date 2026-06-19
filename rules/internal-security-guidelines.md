@@ -2,7 +2,7 @@
 title: Internal Security Guidelines
 description: 
 published: true
-date: 2026-06-19T20:35:52.106Z
+date: 2026-06-19T20:42:34.857Z
 tags: 
 editor: markdown
 dateCreated: 2026-06-19T20:35:52.106Z
@@ -98,7 +98,7 @@ The Security Department and Command Members should **never use Enemy Contraband*
 
 Permits can be granted for any Non-Enemy Contraband and **a permit should be offered first** instead of confiscating Contraband, as long as said Contraband is not linked to a crime.
 
-For more information, see the dedicated Contraband page.
+For more information, see the [dedicated Contraband page](/rules/internal-security-guidelines/contraband).
 # Warrants & Permits
 Warrants & Permits cover any Notarized paperwork that grant permissions not present under standard operations. Verbal agreements and Security records **cannot** function as Notarized paperwork.
 
@@ -204,7 +204,7 @@ Each category has its own default expected sentence length per crime:
 - **Capital Crimes:** 15 minutes
 - **Crimes Against Sapience:** Permanent Confinement without Appeal
 
-A list of all crimes can be found in the dedicated Crimes page.
+A list of all crimes can be found in the [dedicated Crimes page](/rules/internal-security-guidelines/crimes).
 ### Mutually Exclusive Crimes
 Some crimes may not be charged together, either due to overlapping in their nature, or being the same crime at a separate severity. Such crimes include, grouped by their relations:
 - **Theft** X-00 charges (Theft, Theft of Departmental Equipment, Theft of Weaponry, and Espionage)
