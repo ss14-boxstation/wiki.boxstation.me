@@ -2,14 +2,14 @@
 title: Search & Arrest
 description: 
 published: true
-date: 2026-06-19T20:39:10.395Z
+date: 2026-06-19T20:45:09.211Z
 tags: 
 editor: markdown
 dateCreated: 2026-06-19T20:39:10.395Z
 ---
 
 # Search & Arrest Quick Reference
-This section is a quick reference version of the full ISG's section on Searching and Arresting.
+This section is a quick reference version of the full ISG's section on [Searching](/rules/internal-security-guidelines#search-seizure) and [Arresting](/rules/internal-security-guidelines#arrest-procedure).
 ## Search Procedure
 Sometimes its required for members of the Security Department to search a member of the NanoTrasen staff for evidence of a crime or contraband. Searches should only be completed with good reason to believe something will be found.
 
