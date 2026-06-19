@@ -2,7 +2,7 @@
 title: List of Crimes
 description: 
 published: true
-date: 2026-06-19T20:37:57.874Z
+date: 2026-06-19T22:53:08.606Z
 tags: 
 editor: markdown
 dateCreated: 2026-06-19T20:37:57.874Z
@@ -109,6 +109,7 @@ Sentences where the highest tier crime is a Grand Crime **cannot exceed** a tota
 
 For a Grand Crime, **up to 10 minutes** can be given per crime.
 - **3-00 Theft of Weaponry**
+		To through force or deception acquire firearms or lethal weaponary from the lawful owner of a weapon, such as a security officer, command member, or authorized armed crew members (salvage specialists, bartenders etc).
 - **3-02 Bribery**
     To willingly accept material or financial possessions in exchange for normally illegal restricted items or services.
     The person who bribed should be charged for the relevant crimes they commit via bribery (*Espionage* for command items, *Obstruction of Justice* for silencing people, *Forgery* for expediting paperwork etc).
@@ -129,10 +130,13 @@ For an Extreme Crime, **up to 10 minutes** can be given per crime.
     To steal Command Staff gear, the Captains Gear, and the gear of Central Command Officials.
     To disguise as trusted NanoTrasen personnel.
 - **4-01 Abuse of Power**
+		To misuse authority granted by Central Command at the start of shift as a member of Command or Security, or to misue authority granted through in-situ promotion for unlawful means.
 - **4-02 Dereliction of Authority**
+		To knowingly abandon ones post within a position of authority, or leave duties nessicary to station function unattended.
 - **4-03 Breach of Custody**
     To escape custody or breach terms of parole
 - **4-05 Unlawful Removal of a Permanent Mindshield**
+		To remove a lawfully implanted mindshield of a mindshielded individual without proper procedure.
 - **4-08 Obstruction of Revival**
     To cause an individual to be greatly more difficult to revive, while still remaining somewhat reasonably possible to revive, such as by:
     - hiding a body from medical personnel
@@ -172,7 +176,8 @@ Accessory to, Conspiracy to commit, or an Attempt of a Crime Against Sapience sh
     The inmate has demonstrated a lack of ability to be contained, so this crime is grounds for legal execution.
 - **6-05 Non-consensual Servitorization**
     To place an individual inside any law-bound silicon, such as a Cyborg or AI Core, without their explicit consent.
-- **6-08 Mass Prevention of Revival**
+- **6-08 Mass Prevention/Obstruction of Revival**
+	To render multiple (3+) individuals beyond the reasonable capacity of revival.
 - **6-09 Serial Murder**
     To kill multiple (3+) individuals separately with clear repeated patterns in how they were killed.
 - **6-10 Irreparable Sabotage**
@@ -180,5 +185,6 @@ Accessory to, Conspiracy to commit, or an Attempt of a Crime Against Sapience sh
 - **6-11 Broken Arrow**
     To activate or detonate a Nuclear Device without approval from Central Command.
 - **6-12 Bioterrorism**
+		To purposefully introduce a deadly viral agent or other bioweapons (such as Romerol) onto the station with the purpose of indiscriminate infection or harm of the crew.
 - **6-13 Cannibalism**
     To consume any part of any sapient being, living or dead.
