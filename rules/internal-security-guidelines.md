@@ -2,7 +2,7 @@
 title: Internal Security Guidelines
 description: 
 published: true
-date: 2026-06-19T20:42:34.857Z
+date: 2026-06-20T22:05:37.242Z
 tags: 
 editor: markdown
 dateCreated: 2026-06-19T20:35:52.106Z
@@ -155,7 +155,7 @@ Departmental searches are a sweep of an entire department on board a station for
 - Security being allowed in to detain someone inside that department. (That is an arrest)
 - Security investigating an area for evidence. (That is Crime Scene Investigation)
 
-Given the often decentralized natrure of the Service Department, searches thereof should be confined to a room or rooms that are meaningfully connected.
+Given the often decentralized nature of the Service Department, searches thereof should be confined to a room or rooms that are meaningfully connected.
 The definitions of each room will change on a per-station basis, however some general examples include:
 Catering (Botany, Bar, and Kitchen), Theatre (Stage, Backstage, Performers Rooms), Janitorial, Chapel, Library, Reporting Room, etc.
 
