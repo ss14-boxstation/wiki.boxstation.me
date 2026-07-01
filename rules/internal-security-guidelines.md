@@ -2,7 +2,7 @@
 title: Internal Security Guidelines
 description: 
 published: true
-date: 2026-07-01T01:54:34.880Z
+date: 2026-07-01T06:37:29.869Z
 tags: 
 editor: markdown
 dateCreated: 2026-06-19T20:35:52.106Z
@@ -97,6 +97,8 @@ There are four categories of Contraband: Departmental Contraband, Light Contraba
 The Security Department and Command Members should **never use Enemy Contraband**, and should refrain from using any contraband outside Red Alert or greater.
 
 Permits can be granted for any Non-Enemy Contraband and **a permit should be offered first** instead of confiscating Contraband, as long as said Contraband is not linked to a crime.
+
+The Production and/or Supply of contraband without a valid Permit should be charged with **Black Marketeering**. Any methods of Production should be halted, and any Supplied contraband should be confiscated.
 
 For more information, see the [dedicated Contraband page](/rules/internal-security-guidelines/contraband).
 # Warrants & Permits
