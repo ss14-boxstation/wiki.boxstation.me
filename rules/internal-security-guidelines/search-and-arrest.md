@@ -2,7 +2,7 @@
 title: Search & Arrest Quick Reference
 description: 
 published: true
-date: 2026-06-20T22:20:37.268Z
+date: 2026-06-20T22:20:40.068Z
 tags: 
 editor: markdown
 dateCreated: 2026-06-19T20:39:10.395Z

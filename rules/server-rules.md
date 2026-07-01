@@ -2,7 +2,7 @@
 title: Server Rules
 description: 
 published: true
-date: 2026-06-19T21:52:07.322Z
+date: 2026-06-19T21:52:10.054Z
 tags: 
 editor: markdown
 dateCreated: 2026-06-19T21:39:52.942Z
