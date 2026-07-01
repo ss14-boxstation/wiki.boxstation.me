@@ -2,7 +2,7 @@
 title: List of Crimes
 description: 
 published: true
-date: 2026-07-01T01:54:44.962Z
+date: 2026-07-01T02:06:17.234Z
 tags: 
 editor: markdown
 dateCreated: 2026-06-19T20:37:57.874Z
@@ -16,7 +16,7 @@ These are the crimes that Security Guards can charge people with in accordance w
 | X-00 | Theft              | Theft of Departmental Equipment | Theft of Weaponry            | Espionage                                  |                       |                                 |
 | X-01 |                    | Forgery                         |                              | Abuse of Power                             | Sedition              |                                 |
 | X-02 |                    | Perjury                         | Bribery                      | Dereliction of Authority                   |                       |                                 |
-| X-03 | Failure to Comply  | Obstruction of Justice          |                              | Breach of Custody                          | Breach of Confinement | Breach of Long-term Confinement |
+| X-03 | Failure to Comply  | Obstruction of Justice          | Breach of Custody                             | Breach of Confinement                          |  | Breach of Long-term Confinement |
 | X-04 |                    |                                 |                              |                                            |                       | Breach of Permanent Confinement |
 | X-05 | Reckless Operation | Malpractice                     |                              | Unlawful removal of a Permanent Mindshield |                       | Non-consensual Servitorization  |
 | X-06 | Trespassing        | Secure Trespass                 | Secure Breaking and Entering |                                            |                       |                                 |
@@ -113,6 +113,8 @@ For a Grand Crime, **up to 10 minutes** can be given per crime.
 - **3-02 Bribery**
     To willingly accept material or financial possessions in exchange for normally illegal restricted items or services.
     The person who bribed should be charged for the relevant crimes they commit via bribery (*Espionage* for command items, *Obstruction of Justice* for silencing people, *Forgery* for expediting paperwork etc).
+- **3-03 Breach of Custody**
+    To escape custody or breach terms of parole
 - **3-06 Secure Breaking and Entering**
     To trespass into an area marked as Secure or Confidential within [SOP](/rules/standard-operating-procedures) with the specific intent of committing a crime, or committing a crime during trespass. To trespass into an area marked as Secure or Confidential within SOP through means of damaging the station.
 - **3-09 Murder**
@@ -133,8 +135,8 @@ For an Extreme Crime, **up to 10 minutes** can be given per crime.
 		To misuse authority granted by Central Command at the start of shift as a member of Command or Security, or to misue authority granted through in-situ promotion for unlawful means.
 - **4-02 Dereliction of Authority**
 		To knowingly abandon ones post within a position of authority, or leave duties nessicary to station function unattended.
-- **4-03 Breach of Custody**
-    To escape custody or breach terms of parole
+- **4-03 Breach of Confinement**
+    To purposefully escape legal Confinement, such as any cell, brig, or GenPop one has been placed in within the bounds of the ISG.
 - **4-05 Unlawful Removal of a Permanent Mindshield**
 		To remove a lawfully implanted mindshield of a mindshielded individual without proper procedure.
 - **4-08 Obstruction of Revival**
@@ -152,8 +154,6 @@ For a Capital Crime, **up to 15 minutes** can be given per crime.
 - **5-01 Sedition**
     To overthrow a lawfully established Chain of Command without legitimate cause.
 	To ignore a lawful and legitimate Vote of No Confidence.
-- **5-03 Breach of Confinement**
-    To purposefully escape legal Confinement, such as any cell, brig, or GenPop one has been placed in within the bounds of the ISG.
 - **5-08 Mass Murder**
     To crit and/or kill multiple (3+) people in succession.
     (Death or Critting of security personnel in self-defence cannot be considered for Mass Murder)
