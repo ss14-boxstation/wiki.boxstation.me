@@ -2,7 +2,7 @@
 title: List of Crimes
 description: 
 published: true
-date: 2026-07-01T02:06:17.234Z
+date: 2026-07-01T06:25:48.386Z
 tags: 
 editor: markdown
 dateCreated: 2026-06-19T20:37:57.874Z
@@ -103,7 +103,8 @@ For a Felony, **up to 5 minutes** can be given per crime.
 - **2-14 Recidivism**
     To intentionally reoffend with the same charge or greater on multiple (3+) occasions after already being charged for that crime.
 - **2-18 Black Marketeering**
-    The distribution of contraband items to other members of the crew for personal or financial gain, or the usage of illicit funds within NanoTrasen ordering consoles.
+    The production and/or supplying of Contraband without a permit.
+    The illicit use or funding of NanoTrasen ordering consoles.
 # Grand Crimes
 Sentences where the highest tier crime is a Grand Crime **cannot exceed** a total brig time of **20 minutes.**
 
