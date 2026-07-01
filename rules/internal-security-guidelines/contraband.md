@@ -2,7 +2,7 @@
 title: Contraband
 description: 
 published: true
-date: 2026-07-01T06:36:06.005Z
+date: 2026-07-01T06:37:38.759Z
 tags: 
 editor: markdown
 dateCreated: 2026-06-19T20:36:34.257Z
@@ -21,7 +21,7 @@ Contraband Substances can only be given a permit through the means of a Legal Pr
 
 Any Contraband on an inmate should be confiscated unless they have a Permit. A Permit is considered **void** if the Contraband was **used in violation of the ISG**, such as if it was used in a crime outside of self-defence.
 
-The Production and/or Supply of contraband without a valid Permit should be charged with **Black Marketeering**. Any methods of Production should be halted, and any Supplied contraband should be confescated.
+The Production and/or Supply of contraband without a valid Permit should be charged with **Black Marketeering**. Any methods of Production should be halted, and any Supplied contraband should be confiscated.
 # Departmental Equipment
 Certain items and objects are given to specific departments by NanoTrasen despite the danger or risk they present to the crew in the wrong hands because they are useful or necessary in performing the tasks given to a department.
 
