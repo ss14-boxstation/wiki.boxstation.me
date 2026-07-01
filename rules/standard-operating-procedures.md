@@ -2,7 +2,7 @@
 title: Standard Operating Procedures
 description: 
 published: true
-date: 2026-06-19T21:53:15.593Z
+date: 2026-07-01T01:54:39.814Z
 tags: 
 editor: markdown
 dateCreated: 2026-06-19T21:39:56.699Z
