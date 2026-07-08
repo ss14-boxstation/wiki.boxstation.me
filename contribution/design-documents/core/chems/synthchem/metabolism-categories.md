@@ -1,4 +1,13 @@
-# **SynthChem - Metabolism Rework**
+---
+title: SynthChem - Metabolism Rework
+description: 
+published: true
+date: 2026-07-08T08:13:54.153Z
+tags: 
+editor: markdown
+dateCreated: 2026-07-08T08:10:50.993Z
+---
+
 ## *This Design Doc is unreviewed and has been merged as a test and example. Its contents are intended to be taken seriously but are subject to change*
 
 | Designers                     | Coders | Implemented | GitHub Links    |
