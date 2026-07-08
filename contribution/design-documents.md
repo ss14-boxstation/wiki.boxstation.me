@@ -1,9 +1,19 @@
+---
+title: design-documents
+description: 
+published: true
+date: 2026-07-08T08:11:52.209Z
+tags: 
+editor: markdown
+dateCreated: 2026-07-08T06:49:38.921Z
+---
+
 A list of all current Design Documents
 # Core
 ## Combat
 ## Chems
 ### SynthChem
-- Nubody Metabolism
+- [Nubody Metabolism](/contribution/design-documents/core/chems/synthchem/metabolism-categories)
 # Departmental
 ## Command
 ## Engineering
