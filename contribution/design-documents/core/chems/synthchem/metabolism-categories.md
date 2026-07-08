@@ -1,4 +1,6 @@
 # **SynthChem - Metabolism Rework**
+## *This Design Doc is unreviewed and has been merged as a test and example. Its contents are intended to be taken seriously but are subject to change*
+
 | Designers                     | Coders | Implemented | GitHub Links    |
 | ----------------------------- | ------ | ----------- | --------------- |
 | CollectionOfBones128 (GitHub) | TBD    | :x: No      | PR Links or TBD |
