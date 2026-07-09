@@ -2,7 +2,7 @@
 title: SynthChem - Metabolism Rework
 description: 
 published: true
-date: 2026-07-09T07:52:03.165Z
+date: 2026-07-09T07:53:23.807Z
 tags: 
 editor: markdown
 dateCreated: 2026-07-08T08:10:50.993Z
@@ -284,7 +284,7 @@ Content.Shared/Metabolism/MetabolizerSystem.cs
                 // Box Change Start - Pseudocode
                 if (no compatibleMetabolism)
 		            don't apply effect;
-		            // Box Change End
+                // Box Change End
 
                 ApplyEffect(effect);
 
