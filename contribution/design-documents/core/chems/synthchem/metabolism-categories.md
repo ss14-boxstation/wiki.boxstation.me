@@ -2,7 +2,7 @@
 title: SynthChem - Metabolism Rework
 description: 
 published: true
-date: 2026-07-08T08:13:54.153Z
+date: 2026-07-09T07:51:43.774Z
 tags: 
 editor: markdown
 dateCreated: 2026-07-08T08:10:50.993Z
@@ -260,6 +260,11 @@ Content.Shared/Metabolism/MetabolizerSystem.cs
             // still remove reagents
             if (isDead && !proto.WorksOnTheDead)
                 continue;
+                
+            // Box Change Start
+            // Pseudocode
+            var compatibleMetabolism = (at least one reagent category != at least one metabolizer category)
+            // Box Change End
 
             var actualEntity = ent.Comp2?.Body ?? solutionOwner.Value;
 
@@ -275,10 +280,11 @@ Content.Shared/Metabolism/MetabolizerSystem.cs
                 // See if conditions apply
                 if (effect.Conditions != null && !CanMetabolizeEffect(actualEntity, ent, solutionEntity.Value, effect.Conditions))
                     continue;
+                    
                 // Box Change Start - Pseudocode
-                if (at least one reagent category != at least one metabolizer category)
+                if (no compatibleMetabolism)
 		            don't apply effect;
-		        // Box Change End
+		            // Box Change End
 
                 ApplyEffect(effect);
 
