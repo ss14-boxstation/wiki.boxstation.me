@@ -2,7 +2,7 @@
 title: SynthChem - Metabolism Rework
 description: 
 published: true
-date: 2026-07-09T07:51:43.774Z
+date: 2026-07-09T07:52:03.165Z
 tags: 
 editor: markdown
 dateCreated: 2026-07-08T08:10:50.993Z
@@ -263,7 +263,7 @@ Content.Shared/Metabolism/MetabolizerSystem.cs
                 
             // Box Change Start
             // Pseudocode
-            var compatibleMetabolism = (at least one reagent category != at least one metabolizer category)
+            var compatibleMetabolism = (at least one reagent category matches at least one metabolizer category)
             // Box Change End
 
             var actualEntity = ent.Comp2?.Body ?? solutionOwner.Value;
