@@ -2,7 +2,7 @@
 title: SynthChem - Metabolism Rework
 description: 
 published: true
-date: 2026-07-09T10:08:56.196Z
+date: 2026-07-10T05:36:21.557Z
 tags: 
 editor: markdown
 dateCreated: 2026-07-08T08:10:50.993Z
@@ -12,7 +12,7 @@ dateCreated: 2026-07-08T08:10:50.993Z
 
 | Designers                     | Coders | Implemented | GitHub Links    |
 | ----------------------------- | ------ | ----------- | --------------- |
-| CollectionOfBones128 (GitHub) | CollectionOfBones128 (GitHub)    | ℹ️ Open PR  | https://github.com/ss14-boxstation/ss14-boxstation/pull/195 |
+| CollectionOfBones128 (GitHub) | CollectionOfBones128 (GitHub), Dizzy-Eevee (GitHub)    | ℹ️ Open PR  | https://github.com/ss14-boxstation/ss14-boxstation/pull/195 |
 # The Current System, and its flaws
 ## Fundamental Flaws
 *Current Organ code, Pre New Metabolsim*
