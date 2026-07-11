@@ -2,7 +2,7 @@
 title: Internal Security Guidelines
 description: 
 published: true
-date: 2026-07-01T06:37:29.869Z
+date: 2026-07-11T14:44:08.564Z
 tags: 
 editor: markdown
 dateCreated: 2026-06-19T20:35:52.106Z
@@ -200,10 +200,10 @@ Crimes are split into six categories: Misdemeanours, Felonies, Grand Crimes, Ext
 
 Each category has its own default expected sentence length per crime:
 - **Misdemeanour:** 1 minute
-- **Felonies:** 5 minutes
-- **Grand Crimes:** 10 minutes
-- **Extreme Crimes:** 10 minutes
-- **Capital Crimes:** 15 minutes
+- **Felonies:** 4 minutes
+- **Grand Crimes:** 5 minutes
+- **Extreme Crimes:** 6 minutes
+- **Capital Crimes:** 8 minutes
 - **Crimes Against Sapience:** Permanent Confinement without Appeal
 
 A list of all crimes can be found in the [dedicated Crimes page](/rules/internal-security-guidelines/crimes).
@@ -216,24 +216,24 @@ Some crimes may not be charged together, either due to overlapping in their natu
 - **Trespassing** X-06 & X-07 charges (Trespassing, Breaking and Entering, Secure Trespass, Secure Breaking and Entering)
 - **Bodily harm** X-08 & X-09 charges (Brawling, Assault, Manslaughter/Lethal Assault, Murder, Obstruction of Revival, Prevention of Revival, Mass Murder, Mass Prevention of Revival, Serial Murder)
 - **Sabotage** X-10 & X-11 charges (Sabotage, Capital Sabotage, Irreparable Sabotage, and Broken Arrow).
-- **Antisocial** X-14 to X-18 Charges (Fearmongering, Hooliganism, Vandalism, Brandishing, Vigilantism, and Brawling)
+- **Antisocial** X-14 to X-18 Charges (Fearmongering, Hooliganism, Vandalism, Brandishing, Vigilantism, Brawling, Kidnapping, and Black Marketeering)
 ## Sentence Caps
 An inmate may only be subject to the maximum sentence of their highest tier crime. Any additions to their sentence post-brigging, such as attempts to escape, disorderly conduct within the GenPop cell, or failure to comply with the terms of their community service are not bound by the Sentence Cap.
 - **Misdemeanour:** 5 minutes
-- **Felonies:** 10 minutes
-- **Grand Crimes:** 20 minutes
-- **Extreme Crimes:** 25 minutes
-- **Capital Crimes:** 30 minutes or Permanent Confinement with Appeal
+- **Felonies:** 8 minutes
+- **Grand Crimes:** 10 minutes
+- **Extreme Crimes:** 12 minutes
+- **Capital Crimes:** 15 minutes or Permanent Confinement with Appeal
 ```
 If an Antagonist requests it, their sentence Can go over the cap. 
 ```
 **EXAMPLE**
 Someone is arrested for using an access breaker to get into science from maintenance, and beats a scientist to death with a baseball bat. When confronted, they attempt to fight Security but are ultimately detained.
 
-In this case, the inmate would be charged with the following: *Breaking and Entering* (max sentence 10 minutes) and *Murder* (max sentence 20 minutes).
-Their highest tier of crime has a cap of 20 minutes. After adding time for violently evading arrest, they are given 22m30s minutes of brig time, which is reduced to the 20 minute cap.
+In this case, the inmate would be charged with the following: *Breaking and Entering* (max sentence 8 minutes) and *Murder* (max sentence 10 minutes).
+Their highest tier of crime has a cap of 10 minutes. After adding time for violently evading arrest, they are given 13m30s minutes of brig time, which is reduced to the 10 minute cap.
 
-However, they later attempt to break out of GenPop using a baseball bat they crafted inside GenPop. The Warden may choose to apply an additional charge of Breach of Custody, and this time may go over the initial cap of 20 minutes.
+However, they later attempt to break out of GenPop using a baseball bat they crafted inside GenPop. The Warden may choose to apply an additional charge of Breach of Confinement, and this time may go over the initial cap of 10 minutes.
 ## Brig Time Modification
 
 At the Sentencers discretion, certain modifiers may be applied to a sentence to increase or decrease the time served within the brig. These broadly fit into 4 categories.
@@ -263,9 +263,9 @@ You cannot stack multiple modifiers within the same type, nor are you obligated 
 - **Delta Level Alert:** During a Delta Level Alert, Security Personnel should be focusing on protecting the crew first and foremost, including ensuring the health and safety of inmates. Any crimes reasonably committed in the name of preventing the detonation of the Nuclear Device, or similar such dire emergencies, may have their sentences reduced by up to 100%.
 ## Sentence Types
 The appropriate punishment for a crime or crimes is dependant on the total time of the sentence. The appropriate punishments listed in this document fall under three categories: 
-- **Minor Sentences**: Sentences whose total times are less than or equal to 15 minutes
-- **Major Sentences:** Sentences whose total times are greater than 15 minutes
-- **Capital Sentences:** Sentences where a Capital Crime or greater was committed and the total time before the sentence cap is greater than 35 minutes.
+- **Minor Sentences**: Sentences whose total times are less than or equal to 10 minutes
+- **Major Sentences:** Sentences whose total times are greater than 10 minutes
+- **Capital Sentences:** Sentences where a Capital Crime or greater was committed and the total time before the sentence cap is greater than 25 minutes.
 
 Confinement of any type is considered the "default" appropriate punishment. Alternate appropriate punishments may be used to substitute part or all of time that would otherwise be spent in confinement.
 
