@@ -2,7 +2,7 @@
 title: List of Crimes
 description: 
 published: true
-date: 2026-07-01T06:25:48.386Z
+date: 2026-07-11T14:40:29.266Z
 tags: 
 editor: markdown
 dateCreated: 2026-06-19T20:37:57.874Z
@@ -29,7 +29,7 @@ These are the crimes that Security Guards can charge people with in accordance w
 | X-13 | Animal Cruelty     |                                 |                              |                                            |                       | Cannibalism                     |
 | X-14 | Hooliganism        | Recidivism                      |                              |                                            |                       |                                 |
 | X-15 | Vandalism          |                                 |                              |                                            |                       |                                 |
-| X-16 | Fearmongering      |                                 |                              |                                            |                       |                                 |
+| X-16 | Fearmongering      |    Kidnapping                    |                              |                                            |                       |                                 |
 | X-17 | Brandishing        |                                 |                              |                                            |                       |                                 |
 | X-18 | Vigilantism        | Black Marketeering              |                              |                                            |                       |                                 |
 # Mutually Exclusive Crimes
@@ -41,7 +41,7 @@ Some crimes may not be charged together, either due to overlapping in their natu
 - **Trespassing** X-06 & X-07 charges (Trespassing, Breaking and Entering, Secure Trespass, Secure Breaking and Entering)
 - **Bodily harm** X-08 & X-09 charges (Brawling, Assault, Manslaughter/Lethal Assault, Murder, Obstruction of Revival, Prevention of Revival, Mass Murder, Mass Prevention of Revival, Serial Murder)
 - **Sabotage** X-10 & X-11 charges (Sabotage, Capital Sabotage, Irreparable Sabotage, and Broken Arrow).
-- **Antisocial** X-14 to X-18 Charges (Fearmongering, Hooliganism, Vandalism, Brandishing, Vigilantism, and Brawling)
+- **Antisocial** X-14 to X-18 Charges (Fearmongering, Hooliganism, Vandalism, Brandishing, Vigilantism, Brawling, Kidnapping, and Black Marketeering)
 # Misdemeanours
 Sentences where the highest tier crime is a Misdemeanour **cannot exceed** a total brig time of **5 minutes.**
 
@@ -71,9 +71,9 @@ For repeat offence or multiple offence Misdemeanour, **up to 1 minute** can be g
 - **1-18 Vigilantism**
     To take it upon yourself to enforce the ISG outside emergency circumstances, or without authorization from the CO or HoS.
 # Felonies
-Sentences where the highest tier crime is a Felony **cannot exceed** a total brig time of **10 minutes**.
+Sentences where the highest tier crime is a Felony **cannot exceed** a total brig time of **8 minutes**.
 
-For a Felony, **up to 5 minutes** can be given per crime.
+For a Felony, **up to 4 minutes** can be given per crime.
 - **2-00 Theft of Departmental Equipment**
     The theft of equipment specific to one department such as defibs, chemicals, mining equipment, or RCDs. Does not necessarily cover things WITHIN a department such as materials. Not all equipment in a department is departmental equipment. Use the best judgement.
 - **2-01 Forgery**
@@ -102,13 +102,15 @@ For a Felony, **up to 5 minutes** can be given per crime.
     Overdosing medicine or other forms of medical-related harm should be charged with Malpractice instead.
 - **2-14 Recidivism**
     To intentionally reoffend with the same charge or greater on multiple (3+) occasions after already being charged for that crime.
+- **2-16 Kidnapping**
+    To unlawfully restrain an individual or to forcefully relocate and individual without their consent.
 - **2-18 Black Marketeering**
     The production and/or supplying of Contraband without a permit.
     The illicit use or funding of NanoTrasen ordering consoles.
 # Grand Crimes
-Sentences where the highest tier crime is a Grand Crime **cannot exceed** a total brig time of **20 minutes.**
+Sentences where the highest tier crime is a Grand Crime **cannot exceed** a total brig time of **10 minutes.**
 
-For a Grand Crime, **up to 10 minutes** can be given per crime.
+For a Grand Crime, **up to 5 minutes** can be given per crime.
 - **3-00 Theft of Weaponry**
 		To through force or deception acquire firearms or lethal weaponary from the lawful owner of a weapon, such as a security officer, command member, or authorized armed crew members (salvage specialists, bartenders etc).
 - **3-02 Bribery**
@@ -126,9 +128,9 @@ For a Grand Crime, **up to 10 minutes** can be given per crime.
 - **3-12 Malicious use of Stimulants**
     To use stimulants or substances to reduce the effectiveness of non-lethal methods, or to use stimulants or substances to prolong an unlawful firefight.
 # Extreme Crimes
-Sentences where the highest tier crime is an Extreme Crime **cannot exceed** a total brig time of **25 minutes.**
+Sentences where the highest tier crime is an Extreme Crime **cannot exceed** a total brig time of **12 minutes.**
 
-For an Extreme Crime, **up to 10 minutes** can be given per crime.
+For an Extreme Crime, **up to 6 minutes** can be given per crime.
 - **4-00 Espionage**
     To steal Command Staff gear, the Captains Gear, and the gear of Central Command Officials.
     To disguise as trusted NanoTrasen personnel.
@@ -148,10 +150,10 @@ For an Extreme Crime, **up to 10 minutes** can be given per crime.
 	- damaging a body beyond reasonable medical capabilities
 	- actively and wilfully accelerating decomposition.
 # Capital Crimes
-Sentences where the highest tier crime is a Capital Crime **cannot exceed** a total brig time of **30 minutes.**
-If the sentence reaches a time **greater than 35 minutes** before the sentence cap is applied, and/or the severity of the crimes committed warrant it, a sentence of **Permanent Confinement With Appeal may be applied instead.** 
+Sentences where the highest tier crime is a Capital Crime **cannot exceed** a total brig time of **15 minutes.**
+If the sentence reaches a time **greater than 25 minutes** before the sentence cap is applied, and/or the severity of the crimes committed warrant it, a sentence of **Permanent Confinement With Appeal may be applied instead.** 
 
-For a Capital Crime, **up to 15 minutes** can be given per crime.
+For a Capital Crime, **up to 8 minutes** can be given per crime.
 - **5-01 Sedition**
     To overthrow a lawfully established Chain of Command without legitimate cause.
 	To ignore a lawful and legitimate Vote of No Confidence.
