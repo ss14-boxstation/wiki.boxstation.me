@@ -2,7 +2,7 @@
 title: Home Page
 description: 
 published: true
-date: 2026-07-07T02:46:47.056Z
+date: 2026-07-16T07:19:09.964Z
 tags: 
 editor: markdown
 dateCreated: 2026-07-07T02:21:20.825Z
@@ -23,4 +23,5 @@ dateCreated: 2026-07-07T02:21:20.825Z
   <p><a href="https://wiki.boxstation.me/en/rules/internal-security-guidelines/overview">Internal Security Guidelines</a></p>
   <p><a href="https://wiki.boxstation.me/en/rules/server-rules">Server Rules</a></p>
   <p><a href="https://wiki.boxstation.me/en/rules/standard-operating-procedures">Standard Operating Procedures</a></p>
+  <h3> <b>16-07-2026:</b> The discord has been set to read only for unknown reasons. </br> Please message Bones on Discord for an invite to the backup. </h3>
 </div>
