@@ -2,7 +2,7 @@
 title: List of Crimes
 description: 
 published: true
-date: 2026-07-11T14:40:29.266Z
+date: 2026-07-17T11:15:05.663Z
 tags: 
 editor: markdown
 dateCreated: 2026-06-19T20:37:57.874Z
@@ -73,7 +73,7 @@ For repeat offence or multiple offence Misdemeanour, **up to 1 minute** can be g
 # Felonies
 Sentences where the highest tier crime is a Felony **cannot exceed** a total brig time of **8 minutes**.
 
-For a Felony, **up to 4 minutes** can be given per crime.
+For a Felony, a textbook case should aim for **4 minutes per crime**.
 - **2-00 Theft of Departmental Equipment**
     The theft of equipment specific to one department such as defibs, chemicals, mining equipment, or RCDs. Does not necessarily cover things WITHIN a department such as materials. Not all equipment in a department is departmental equipment. Use the best judgement.
 - **2-01 Forgery**
@@ -110,7 +110,7 @@ For a Felony, **up to 4 minutes** can be given per crime.
 # Grand Crimes
 Sentences where the highest tier crime is a Grand Crime **cannot exceed** a total brig time of **10 minutes.**
 
-For a Grand Crime, **up to 5 minutes** can be given per crime.
+For a Grand Crime, a textbook case should aim for **5 minutes per crime**.
 - **3-00 Theft of Weaponry**
 		To through force or deception acquire firearms or lethal weaponary from the lawful owner of a weapon, such as a security officer, command member, or authorized armed crew members (salvage specialists, bartenders etc).
 - **3-02 Bribery**
@@ -130,7 +130,7 @@ For a Grand Crime, **up to 5 minutes** can be given per crime.
 # Extreme Crimes
 Sentences where the highest tier crime is an Extreme Crime **cannot exceed** a total brig time of **12 minutes.**
 
-For an Extreme Crime, **up to 6 minutes** can be given per crime.
+For an Extreme Crime, a textbook case should aim for **6 minutes per crime**.
 - **4-00 Espionage**
     To steal Command Staff gear, the Captains Gear, and the gear of Central Command Officials.
     To disguise as trusted NanoTrasen personnel.
@@ -153,7 +153,7 @@ For an Extreme Crime, **up to 6 minutes** can be given per crime.
 Sentences where the highest tier crime is a Capital Crime **cannot exceed** a total brig time of **15 minutes.**
 If the sentence reaches a time **greater than 25 minutes** before the sentence cap is applied, and/or the severity of the crimes committed warrant it, a sentence of **Permanent Confinement With Appeal may be applied instead.** 
 
-For a Capital Crime, **up to 8 minutes** can be given per crime.
+For a Capital Crime, a textbook case should aim for **8 minutes per crime**.
 - **5-01 Sedition**
     To overthrow a lawfully established Chain of Command without legitimate cause.
 	To ignore a lawful and legitimate Vote of No Confidence.
