@@ -2,7 +2,7 @@
 title: Internal Security Guidelines
 description: 
 published: true
-date: 2026-07-11T14:44:08.564Z
+date: 2026-07-17T11:19:19.889Z
 tags: 
 editor: markdown
 dateCreated: 2026-06-19T20:35:52.106Z
@@ -198,7 +198,7 @@ Antagonists also should not be playing to win. Both Security and Antagonists are
 ## Crimes
 Crimes are split into six categories: Misdemeanours, Felonies, Grand Crimes, Extreme Crimes, Capital Crimes, and Crimes Against Sapience.
 
-Each category has its own default expected sentence length per crime:
+Each category has its own example of what a textbook case should aim for per crime:
 - **Misdemeanour:** 1 minute
 - **Felonies:** 4 minutes
 - **Grand Crimes:** 5 minutes
@@ -241,10 +241,10 @@ You cannot stack multiple modifiers within the same type, nor are you obligated 
 
 | **Modifier**     | **Lesser**                                               | **Moderate**                                            | **Severe**                                      |
 | ---------------- | -------------------------------------------------------- | ------------------------------------------------------- | ----------------------------------------------- |
-| **Intent**       | Accessory to a Charge<br>(up to 25% of default sentence) | Conspiracy<br>(up to 50% of default sentence)           | Attempted<br>(up to 75% of default sentence)    |
-| **Additions**    | Evading Arrest<br>(up to +25%)                           | Violently Evading Arrest<br>(up to +50%)                | Targeting Central Command Staff<br>(+100%)      |
-| **Deductions**   | Compliance<br>(up to -25%)                               | Confession<br>(Up to -50%)                              | Voluntary Tracking Implantation<br>(up to -80%) |
-| **Circumstance** | Good Behaviour<br>(up to -50% or parole)                 | Self-Defense or performed under duress<br>(up to -100%) | Delta Level Alert<br>(See Explainer, -100%)     |
+| **Intent**       | Accessory to a Charge<br>(at least -75% per crime) | Conspiracy<br>(at least -50% per crime)           | Attempted<br>(at least -25% per crime)    |
+| **Additions**    | Evading Arrest<br>(up to +25% on total)                           | Violently Evading Arrest<br>(up to +50% on total)                | Targeting Central Command Staff<br>(+100% on total)      |
+| **Deductions**   | Compliance<br>(up to -25%)                               | Confession<br>(Up to -50%)                              | Voluntary Tracking Implantation<br>(up to -80%  on total) |
+| **Circumstance** | Good Behaviour<br>(up to -50% of remaining or parole)                 | Self-Defense or Performed under duress<br>(up to -100% per crime) | Delta Level Alert<br>(-100%, See Explainer)     |
 ### Intent
 - **Accessory to a Charge:** Assistance with a crime. If someone provided access, tools, wilfully looked the other way, or otherwise facilitated the performance of a crime or helped cover for a crime, they can be charged for any and all crimes they assisted with, but only for up to a quarter the usual sentence time.
 - **Conspiracy:** To conspire to commit a crime is to prepare and plan for said crime. Relevant proof must be presented to charge someone with Conspiracy to commit a crime. If the proof exists, they may be charged for each crime they can be Verified to have planned to commit, but only for up to half of the usual sentence time.
