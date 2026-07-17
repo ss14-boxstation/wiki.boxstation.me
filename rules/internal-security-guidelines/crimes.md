@@ -2,7 +2,7 @@
 title: List of Crimes
 description: 
 published: true
-date: 2026-07-17T11:15:05.663Z
+date: 2026-07-17T11:20:08.972Z
 tags: 
 editor: markdown
 dateCreated: 2026-06-19T20:37:57.874Z
@@ -46,7 +46,7 @@ Some crimes may not be charged together, either due to overlapping in their natu
 Sentences where the highest tier crime is a Misdemeanour **cannot exceed** a total brig time of **5 minutes.**
 
 For a first offence or minor offence Misdemeanour, **a warning** should be given first.
-For repeat offence or multiple offence Misdemeanour, **up to 1 minute** can be given per crime.
+For repeat offence or multiple offence Misdemeanour, a textbook case should aim for **1 minute per crime**.
 - **1-00 Theft**
     To take personal property without consent.
 - **1-03 Failure to Comply**
