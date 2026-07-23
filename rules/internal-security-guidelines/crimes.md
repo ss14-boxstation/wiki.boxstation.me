@@ -2,7 +2,7 @@
 title: List of Crimes
 description: 
 published: true
-date: 2026-07-23T22:52:30.904Z
+date: 2026-07-23T22:53:42.492Z
 tags: 
 editor: markdown
 dateCreated: 2026-06-19T20:37:57.874Z
@@ -11,7 +11,7 @@ dateCreated: 2026-06-19T20:37:57.874Z
 # List of Crimes
 These are the crimes that Security Guards can charge people with in accordance with the Internal Security Guidelines (The ISG).
 
-|      | 1-XX Misdemeanour <br> (~1min)  | 2-XX Felony <br> (~4min)                     | 3-XX Grand <br> (~5min)                    | 4-XX Extreme <br> (~6min)                                | 5-XX Capital <br> (~8min)           | 6-XX Against Sapience <br> (Perma)            |
+|      | 1-XX Misdemeanour <br> (~1min/Warn)  | 2-XX Felony <br> (~4min)                     | 3-XX Grand <br> (~5min)                    | 4-XX Extreme <br> (~6min)                                | 5-XX Capital <br> (~8min)           | 6-XX Against Sapience <br> (Perma)            |
 | ---- | ------------------ | ------------------------------- | ---------------------------- | ------------------------------------------ | --------------------- | ------------------------------- |
 | X-00 | Theft              | Theft of Departmental Equipment | Theft of Weaponry            | Espionage                                  |                       |                                 |
 | X-01 |                    | Forgery                         |                              | Abuse of Power                             | Sedition              |                                 |
