@@ -2,7 +2,7 @@
 title: Internal Security Guidelines
 description: 
 published: true
-date: 2026-08-14T01:08:58.372Z
+date: 2026-08-14T01:24:24.004Z
 tags: 
 editor: markdown
 dateCreated: 2026-06-19T20:35:52.106Z
@@ -237,7 +237,10 @@ However, they later attempt to break out of GenPop using a baseball bat they cra
 ## Brig Time Modification
 
 At the Sentencers discretion, certain modifiers **may** be applied to a sentence to increase or decrease the time served within the brig. These broadly fit into 4 categories.
+
 You cannot stack multiple modifiers within the same type, nor are you obligated to use one from each category. These modifications can be made **before or after** a sentence is applied, depending on the circumstances. See the explainers below the table for more information.
+
+This table should not be treated as an exhaustive list. Other circumstances may apply, use your best judgement.
 
 | **Modifier**     | **Lesser**                                               | **Moderate**                                            | **Severe**                                      |
 | ---------------- | -------------------------------------------------------- | ------------------------------------------------------- | ----------------------------------------------- |
