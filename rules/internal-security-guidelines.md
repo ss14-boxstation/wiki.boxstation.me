@@ -2,7 +2,7 @@
 title: Internal Security Guidelines
 description: 
 published: true
-date: 2026-07-17T11:19:19.889Z
+date: 2026-08-14T01:08:58.372Z
 tags: 
 editor: markdown
 dateCreated: 2026-06-19T20:35:52.106Z
@@ -236,7 +236,7 @@ Their highest tier of crime has a cap of 10 minutes. After adding time for viole
 However, they later attempt to break out of GenPop using a baseball bat they crafted inside GenPop. The Warden may choose to apply an additional charge of Breach of Confinement, and this time may go over the initial cap of 10 minutes.
 ## Brig Time Modification
 
-At the Sentencers discretion, certain modifiers may be applied to a sentence to increase or decrease the time served within the brig. These broadly fit into 4 categories.
+At the Sentencers discretion, certain modifiers **may** be applied to a sentence to increase or decrease the time served within the brig. These broadly fit into 4 categories.
 You cannot stack multiple modifiers within the same type, nor are you obligated to use one from each category. These modifications can be made **before or after** a sentence is applied, depending on the circumstances. See the explainers below the table for more information.
 
 | **Modifier**     | **Lesser**                                               | **Moderate**                                            | **Severe**                                      |
