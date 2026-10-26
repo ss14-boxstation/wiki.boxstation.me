@@ -2,7 +2,7 @@
 title: Game Rules
 description: 
 published: true
-date: 2026-10-26T05:59:51.727Z
+date: 2026-10-26T06:02:39.291Z
 tags: 
 editor: markdown
 dateCreated: 2026-06-19T21:39:52.942Z
@@ -74,4 +74,9 @@ The exception to this is in the event there are no eligible Antagonist players. 
 ### Admins are Approachable
 If you are ever unsure of a game mechanic or ruling, or if you are unsure if your antag gimmick will be fun, you are always welcome to ask an admin with the AHelp relay. Admins are here to help keep the game fun and fair for everyone, and that includes you.
 # Subrules
-
+<div style="text-align: center;font-size: 20px;">
+  <p><a href="https://wiki.boxstation.me/en/rules/game-rules/roleplay">Roleplay Expectations & Rules</a></p>
+  <p><a href="https://wiki.boxstation.me/en/rules/game-rules/security-command">Security and Command Expectations & Rules</a></p>
+  <p><a href="https://wiki.boxstation.me/en/rules/game-rules/antagonists">Antagonist Expectations & Rules</a></p>
+  <p><a href="https://wiki.boxstation.me/en/rules/game-rules/silicon">Silicon Expectations & Rules</a></p>
+</div>
