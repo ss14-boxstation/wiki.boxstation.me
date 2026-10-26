@@ -23,5 +23,5 @@ dateCreated: 2026-07-07T02:21:20.825Z
   <p><a href="https://wiki.boxstation.me/en/rules/internal-security-guidelines/overview">Internal Security Guidelines</a></p>
   <p><a href="https://wiki.boxstation.me/en/rules/server-rules">Server Rules</a></p>
   <p><a href="https://wiki.boxstation.me/en/rules/standard-operating-procedures">Standard Operating Procedures</a></p>
-  <h3> <b>30-07-2026:</b> The discord has been restored. </h3>
+  <h3> test </h3>
 </div>
