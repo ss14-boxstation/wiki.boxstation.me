@@ -1,8 +1,8 @@
 ---
-title: RP Rules
-description: Roleplay Rules & Expectations
+title: Roleplay Rules & Expectations
+description: 
 published: true
-date: 2026-10-26T06:29:13.118Z
+date: 2026-10-26T06:29:47.498Z
 tags: 
 editor: markdown
 dateCreated: 2026-10-26T06:07:55.004Z
