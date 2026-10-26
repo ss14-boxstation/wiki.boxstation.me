@@ -2,14 +2,13 @@
 title: RP Rules
 description: Roleplay Rules & Expectations
 published: true
-date: 2026-10-26T06:07:55.004Z
+date: 2026-10-26T06:29:13.118Z
 tags: 
 editor: markdown
 dateCreated: 2026-10-26T06:07:55.004Z
 ---
 
-# Roleplay Expectations & Rules
-## RP.0 - Basic Roleplay Expectations
+# RP.0 - Basic Roleplay Expectations
 Box Station is an MRP+ Server with a focus on Narrative.
 While we do not expect you to be immersed 100% of the time, we expect you to behave IC for the entire duration of a round.
 
@@ -19,38 +18,38 @@ Space Station 14 is a game with a wide variety of tones, and one where anything 
 We do not expect you to roleplay a “serious employee”, but we do expect your character to have a reason as to why they are on a NanoTrasen Research Station.
 
 The BoxStation Admin team curates the amount of antagonists in a round, but does not directly control what objectives they get. Where possible, we allow for the randomness of the game to help drive or spur on interesting narratives.
-## RP.1 - New Life Rule
+# RP.1 - New Life Rule
 Don’t remember your death. This applies to all deaths but not to sleeping or being in critical condition.
 You may not provide information that will directly incriminate your killer or lack of killer. You may remember vague information about what you were about to do, but cannot recall anything specific such as species, weapon, etc.
 
 You are not allowed to remember events that happened while you are asleep, critical, or dead. However you may begin to recover these lost memories at the End Of Round with your killer's OOC permission.
 
 If you have been cloned or placed into an MMI, you may not remember any events that have occurred since the shift started.
-## RP.2 - Naming Conventions
+# RP.2 - Naming Conventions
 Your character must be named in a believable way for an employee of Nanotrasen.
 Do not use Memes or Notable Fictional Characters as names. IE- “Name Thy Child Benry”, “Walter White”, “Garrus Vakarian”
 Roles that allow you to fill in a secondary name, such as Stage Names or Borg and AI Names, have greater leeway.
 No names are allowed to be offensive. If your name is found to be offensive, an admin will contact you and prompt you to rename it. Failure to rename it will result in Admin Actions.
 You do not have to follow any species-specific naming conventions.
-## RP.3 - Continuity
+# RP.3 - Continuity
 You are allowed to have continuity between rounds, and you are allowed to adapt experiences you had on other servers into your character’s BoxStation history.
 
 You do not have to consider any specific round canon, and you may pick and choose what parts of a round are canon too. There is no central canon.
 
 If another player has decided certain events or rounds aren’t canon to their character, you must respect this. These events may still have happened to your character, but it might have been done by an imposter or a very similar being rather than that other person’s character.
-### No Metagrudging or Metafriending
+## No Metagrudging or Metafriending
 While you are allowed to form and maintain IC friendships or rivalries, you should not use these as an excuse to impede the enjoyment or mechanical opportunities of another player for actions that did not occur in that round.
 Similarly, you may not grant extra mechanical opportunities to another player due to IC friendship for actions that did not occur in that round.
-### Antagonist Continuity RP
+## Antagonist Continuity RP
 Antagonist Players are within their right to ask you to not treat them harshly for their actions taken as an Antagonist, even if those rounds are canon to that character.
 We are all here to have fun.
-## RP.4 - Play Your Role
+# RP.4 - Play Your Role
 When picking a Role to play, you should pick one you are comfortable and willing to play for the entire round.
 
 Do not do another player’s role. Do not utilize IC or OOC information or memories to perform a task in a different role unless it is a dire circumstance.
 
 You may take as many breaks as you desire, as long as you inform your department and still meaningfully engage with your role during the round.
-## RP.5 Reasonable Escalation
+# RP.5 Reasonable Escalation
 > Follows GR0
 {.is-info}
 
@@ -60,16 +59,16 @@ Being an antagonist or free agent modifies these in ways described in the Antago
 
 You may not kill utilizing Reasonable Escalation. You must still follow the expectations of your role.
 
-Do not attack another player without a reasonable roleplay justification that holds up to similar real-life scenarios.
-Any violence must be preceded by a series of reasonable escalations clearly stating the terms and consequences. A three-strike system is a good rule of thumb.
-A violent encounter ends when both parties leave the area or if one party goes critical, and the encounter cannot be picked back up. Do not chase people through maints if the goal is to get them to leave your department/presence.
-You must proactively seek medical attention for the other party if they cannot seek medical attention themselves, such as if they are in critical condition.
-You should aim to minimize the degree of lethality, where possible.Try to keep the escalation to non-lethal actions as much as possible.
-You may match the escalation of the other party. If one person escalates to punching, you may match them. 
-If someone is being attacked in front of you and there is the risk of lethal action towards your person, you should aim to get security involved before considering placing yourself in lethal harms way.
-Your character likely, on some level, fears death. And if they don’t, dying and being revived is a process that is likely to hurt or be exhausting.
-You are allowed to interfere, but should aim to not jump to do so
-## RP.6 - No Self-Antagging
+- Do not attack another player without a reasonable roleplay justification that holds up to similar real-life scenarios.
+- Any violence must be preceded by a series of reasonable escalations clearly stating the terms and consequences. A three-strike system is a good rule of thumb.
+- A violent encounter ends when both parties leave the area or if one party goes critical, and the encounter cannot be picked back up. Do not chase people through maints if the goal is to get them to leave your department/presence.
+- You must proactively seek medical attention for the other party if they cannot seek medical attention themselves, such as if they are in critical condition.
+- You should aim to minimize the degree of lethality, where possible.Try to keep the escalation to non-lethal actions as much as possible.
+- You may match the escalation of the other party. If one person escalates to punching, you may match them. 
+- If someone is being attacked in front of you and there is the risk of lethal action towards your person, you should aim to get security involved before considering placing yourself in lethal harms way.
+	- Your character likely, on some level, fears death. And if they don’t, dying and being revived is a process that is likely to hurt or be exhausting.
+	- You are allowed to interfere, but should aim to not jump to do so
+# RP.6 - No Self-Antagging
 > Follows GR0
 {.is-info}
 
@@ -95,7 +94,7 @@ The Secure Objective Command Items are as follows:
 The Nuclear Disk and Security’s Weapons are some of the most extreme items to hand out this way, and any circumstance where this happens must be extraordinary.
 
 Accepting bribes or being coerced are still liable for IC consequences.
-## RP.7 - No Validhunting
+# RP.7 - No Validhunting
 > Follows GR0
 {.is-info}
 
@@ -103,7 +102,7 @@ Stopping, Arresting, Hunting, or otherwise Impeding Antagonist activities is the
 As non-security, you should not engage in these behaviours, as this is known as Validhunting.
 
 While you may act in self-defence, once an antagonist has escaped you should cease any hostile activities towards them.
-## RP.8 - Cryosleep and Respawning
+# RP.8 - Cryosleep and Respawning
 At any point during the round, you are allowed to leave it via entering Cryosleep.
 Security and Command should make every effort to leave their gear in a secure location and inform their departments of their departure.
 
@@ -111,7 +110,7 @@ After entering Cryosleep, you may ask to be sent back to the lobby (known as “
 Choose to later rejoin the round as the same character on the same job or as a Passenger
 Choose to later rejoin the round as a different character, but without any knowledge of what happened in the round already.
 Within the first 5 minutes of joining a round, if you accidentally picked the wrong job, you are also allowed to respawn as the same character on a different job.
-## RP.9 - Sensitive Topics
+# RP.9 - Sensitive Topics
 Certain topics are sensitive or heavy (including but not limited to self harm, physical or psychological abuse, or general trauma based topics) and there are certain expectations around the manner in which these could be approached, handled, or used.
 
 You should endeavour to discuss beforehand with someone before engaging in a sensitive topic or heavy topic scene.
@@ -119,14 +118,14 @@ You should endeavour to keep heavy scenes private or contained. Do not engage in
 
 You must respect other player’s comfort levels, and allow for them to exit any scenes that are too heavy for them. Failure to drop a topic when prompted will result in Admin Intervention.
 You should not treat sensitive topics as a joke or punch line in and of themselves.
-## RP.10 - Social Conflict
+# RP.10 - Social Conflict
 You are allowed to play an abrasive character, however you should be careful it remains IC abrasion and does not leak into OOC spaces or behaviours.
 If a player asks you to reduce or stop being abrasive with them, you must respect this request.
 
 You may not liken the Security department to “cops”, “pigs”, or “fascists”. You may not use words like “ShitSec”. If you believe Security is overstepping, inform an Admin.
 
 You should not mock Antagonists if they fail to complete their objectives or fail to kill you.
-## RP.11 - Harmless Crime
+# RP.11 - Harmless Crime
 You are allowed to break into non-secure areas if there is a strong reason to enter it and no reasonable way to achieve that through talking to other players, such as if no other player has access to that area either.
 Breaking into secure areas should only ever be done in extreme circumstances.
 
