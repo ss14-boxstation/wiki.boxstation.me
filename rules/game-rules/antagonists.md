@@ -2,7 +2,7 @@
 title: Antagonist Expectations & Rules
 description: 
 published: true
-date: 2026-10-26T06:17:24.436Z
+date: 2026-10-28T10:28:57.631Z
 tags: 
 editor: markdown
 dateCreated: 2026-10-26T06:17:24.436Z
@@ -142,62 +142,62 @@ If you are not engaging in some form of Gimmick Ops, such as using disguises or 
 Nuclear Operatives are exempt from EORG rules, but may be considered “kill on sight” by CentComm personnel.
 
 The Lone Operative ghost role and any reinforcement purchased by a Nuclear Operative or Lone Operative have the same expectations and limits as standard Nuclear Operatives.
-Ghost Role Antagonists
+## Ghost Role Antagonists
 Ghost Roles are randomly generated, and thus are not curated by Admins. Unless stated otherwise, Ghost Role Antagonists should aim to add spice to the round but are not expected to carry the narrative like crew-made antagonists are.
-## Paradox Clones
+### Paradox Clones
 A freak accident of space-time has left the Paradox Clone stranded from their original reality and into this one where they come face to face with the realization that they have an alternate self, and only one of them is guaranteed to make it out of the shift alive.
 
 If your original is an Antagonist, you inherit their status and rules.
-### Usurper Clone
+#### Usurper Clone
 You are an antagonist who only has Target Escalation.
 If you have completed your objective to replace your Original, you may continue to act as an antagonist, which includes aiding other antagonists and otherwise committing minor antagonisms.
-### Saviour Clone
+#### Saviour Clone
 You are not an Antagonist. You have Defence Escalation concerning your Original on top of Standard Escalation. You can only Critical someone, not kill.
 You may kill someone if they Round Remove your Original.
 
 If you have the “Keep The Original Alive” objective for an antagonist and have the same objectives you are allowed to help your original in completing their objectives, however your first priority should always be protecting the original.  Players should decide on who should keep objective items between each other.
-## Dragon
+### Dragon
 An oversized space fauna capable of speech and the pinnacle of space carp. Dragons seek to aggressively claim territory and empower themselves with otherworldly rifts from which loyal space carp flow ever forward.
 
 You have Aggressive Escalation. Avoid Arrivals if possible. You may kill and eat anyone. You can let people rot but do not go out of your way to RR people.
 
 Dragons and their carp mobs are exempt from EORG rules, but may also be considered “kill on sight” to all CentComm staff.
-### Rift Carp
+#### Rift Carp
 You are a Hostile Critter, but you are first and foremost loyal to the Space Dragon that summoned you. You can follow the commands of your Dragon no matter how complicated.
 
 Follow the expectations of Hostile Critters and of Dragons. Wherever there is a conflict, the rules for Dragons wins out.
-## Ninja
+### Ninja
 A stealth operative sent by the Spider Clan to raid and sabotage NanoTrasen’s research, the Ninja is expected to return unseen and with a blade clear of blood.
 
 You have Defence Escalation instead of Expedited Escalation. You cannot RR someone, but are allowed to kill. You should aim to only kill as a last resort.
 
 You are allowed to Roleplay and be friendly, but you should try to achieve your objectives.
-## Bingles
+### Bingles
 A strange and otherworldly creature whose entire existence is tied to their Pit. Feed the pit, grow the horde, Bingle.
 
 Bingles have Aggressive Escalation. Protecting and feeding the pit should be the first priority to anything you do.
 Do not intentionally space Arrivals. You can bring anyone or anything into the pit, as long as you are following AR.1.
-## Rat King
+### Rat King
 An oversized rodent capable of speech and summoning servants. Ever-hungry, they seek to expand their regal domain and territory. You have Expedited Escalation.
 
 Rat Kings are antagonists, and as such should not align themselves with Crew unless there is a credible existential threat to the station. You may still roleplay and negotiate with Crew, however remember the purpose of antagonists.
-## Revenant
+### Revenant
 A malevolent supernatural manifestation that feeds on the essence of the dying. You have Aggressive Escalation.
 
 You cannot turn anyone into an antagonist (GR0, Requires Admin Permission.)
 Do not harvest souls from SSD players
-## Wizard
+### Wizard
 A powerful sorcerer with untold power at their fingertips who desires to demonstrate their arcane prowess, through violence if necessary or fun.
 
 You have Aggressive Escalation. You are fully exempt from AR.1 and may ignore standard Ghost Role Antagonist expectations.
 
 Be narrative in your destruction, and try not to die.
-## Hostile Critters
+### Hostile Critters
 Hostile Critters are territorial, aggressive, deadly animals.
 
 If you have not been affected by Cognizine, you have Aggressive Escalation.
 You cannot be friendly unless cogni’d. You must act aggressive, hostile, territorial, and like the animal you are unless you’re cogni’d. That means no aiming to sabo distro or power.
-## Free Agents
+### Free Agents
 As a Free Agent, you do not have Expedited Escalation unless you declare your intent to behave as an antagonist. All Free Agents can aid antags unless they are under the effect of the command and security free agent clause.
-### Security And Command Free Agent Clause
+#### Security And Command Free Agent Clause
 Free Agents who do not declare their intent to behave antagonistically in AHelp and who assume, adopt, or are otherwise assigned a role in Security or Command, are expected to follow the standards of and behave like a crew-aligned member of said role.
